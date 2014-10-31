@@ -1,6 +1,8 @@
 CS3021 Computer Architecture Tutorial 1
 ====================
 
+### James Walsh 10382833
+
 Question 2
 ---------------------
 
